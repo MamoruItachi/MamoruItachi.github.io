@@ -1,0 +1,20 @@
+.example-block{
+	height: 600px;
+	box-shadow: 2px 2px 10px #000;
+	margin: 30px;
+	background: url(../img/css.jpg) top/300px 300px round local;
+}
+
+.example-block1{
+	height: 600px;
+	box-shadow: 2px 2px 10px #000;
+	margin: 30px;
+	background: url(../img/tilesmal.jpg) round;
+}
+
+.example-block2{
+	height: 700px;
+	box-shadow: 2px 2px 10px #000;
+	margin: 30px;
+	background: url(../img/tileblock.jpg);
+}
